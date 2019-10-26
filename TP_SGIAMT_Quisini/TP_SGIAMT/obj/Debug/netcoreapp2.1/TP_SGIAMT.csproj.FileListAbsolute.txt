@@ -1,0 +1,110 @@
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\bin\Debug\netcoreapp2.1\appsettings.json
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.deps.json
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.runtimeconfig.json
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.runtimeconfig.dev.json
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.dll
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.pdb
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.Views.dll
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.Views.pdb
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.csproj.CoreCompileInputs.cache
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorAssemblyInfo.cache
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorAssemblyInfo.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.AssemblyInfoInputs.cache
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.AssemblyInfo.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.TagHelpers.input.cache
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.TagHelpers.output.cache
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorCoreGenerate.cache
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MainMenu.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorTargetAssemblyInfo.cache
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorTargetAssemblyInfo.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.Views.pdb
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.dll
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.pdb
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.csproj.CopyComplete
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\TUsuarios\Create.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\TUsuarios\Delete.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\TUsuarios\Details.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\TUsuarios\Edit.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\TUsuarios\Index.cshtml.g.cs
+F:\2019- II\TP3\TP_SGIAMT\TP_SGIAMT\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.csprojAssemblyReference.cache
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.csprojAssemblyReference.cache
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorAssemblyInfo.cache
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorAssemblyInfo.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.AssemblyInfoInputs.cache
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.AssemblyInfo.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.dll
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.pdb
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\appsettings.json
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.deps.json
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.runtimeconfig.json
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.runtimeconfig.dev.json
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.dll
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.pdb
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.Views.dll
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.Views.pdb
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.TagHelpers.input.cache
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.TagHelpers.output.cache
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorCoreGenerate.cache
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Acces\LogIn.cshtml.g.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MainMenu.cshtml.g.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorTargetAssemblyInfo.cache
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorTargetAssemblyInfo.cs
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.Views.pdb
+D:\2k19-2\tp\3ra iter\pogra\plantilla\TP_SGIAMT\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.csproj.CopyComplete
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.deps.json
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.runtimeconfig.json
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.runtimeconfig.dev.json
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.dll
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.pdb
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.Views.dll
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\TP_SGIAMT.Views.pdb
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.csproj.CoreCompileInputs.cache
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorAssemblyInfo.cache
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorAssemblyInfo.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.AssemblyInfoInputs.cache
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.AssemblyInfo.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.TagHelpers.input.cache
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.TagHelpers.output.cache
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorCoreGenerate.cache
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Acces\LogIn.g.cshtml.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MainMenu.g.cshtml.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorTargetAssemblyInfo.cache
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorTargetAssemblyInfo.cs
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.Views.pdb
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.dll
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.pdb
+D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.csproj.CopyComplete

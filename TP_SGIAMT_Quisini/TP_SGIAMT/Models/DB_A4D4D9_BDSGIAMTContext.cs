@@ -164,6 +164,7 @@ namespace TP_SGIAMT.Models
                     .HasColumnName("DU_FechaNacimiento")
                     .HasColumnType("datetime");
 
+<<<<<<< HEAD
                 entity.Property(e => e.FkIauIdArchivo)
                 .HasColumnName("FK_IAU_IdArchivo");
 
@@ -172,6 +173,13 @@ namespace TP_SGIAMT.Models
 
                 entity.Property(e => e.FkIuCodCategoria)
                 .HasColumnName("FK_IU_CodCategoria");
+=======
+                entity.Property(e => e.FkIauIdArchivo).HasColumnName("FK_IAU_IdArchivo");
+
+                entity.Property(e => e.FkItuTipoUsuario).HasColumnName("FK_ITU_TipoUsuario");
+
+                entity.Property(e => e.FkIuCodCategoria).HasColumnName("FK_IU_CodCategoria");
+>>>>>>> 69f5eddd531708e2401d39e31741a17cdab79439
 
                 entity.Property(e => e.VuAmaterno)
                     .HasColumnName("VU_AMaterno")

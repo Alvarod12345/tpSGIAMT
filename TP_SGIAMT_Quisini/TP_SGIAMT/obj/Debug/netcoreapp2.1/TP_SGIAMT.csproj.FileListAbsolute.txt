@@ -108,6 +108,7 @@ D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.Views.pd
 D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.dll
 D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.pdb
 D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.csproj.CopyComplete
+<<<<<<< HEAD
 D:\2k19-2\tp\3ra iter\pogra\mio\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.csprojAssemblyReference.cache
 D:\2k19-2\tp\3ra iter\pogra\mio\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorAssemblyInfo.cache
 D:\2k19-2\tp\3ra iter\pogra\mio\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorAssemblyInfo.cs
@@ -180,3 +181,5 @@ D:\2k19-2\tp\3ra iter\pogra\mio-test-asp.netCore\TP_SGIAMT_Quisini\TP_SGIAMT\obj
 D:\2k19-2\tp\3ra iter\pogra\mio-test-asp.netCore\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.dll
 D:\2k19-2\tp\3ra iter\pogra\mio-test-asp.netCore\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.pdb
 D:\2k19-2\tp\3ra iter\pogra\mio-test-asp.netCore\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.csproj.CopyComplete
+=======
+>>>>>>> 69f5eddd531708e2401d39e31741a17cdab79439

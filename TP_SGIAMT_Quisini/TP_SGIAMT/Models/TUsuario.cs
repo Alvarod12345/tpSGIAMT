@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -53,11 +54,30 @@ namespace TP_SGIAMT.Models
         public string VuContraseña { get; set; }
         //---------------------------------
 
+=======
+﻿using System;
+using System.Collections.Generic;
+
+namespace TP_SGIAMT.Models
+{
+    public partial class TUsuario
+    {
+        public TUsuario()
+        {
+            TUsuarioModalidad = new HashSet<TUsuarioModalidad>();
+        }
+
+        public int PkIuDni { get; set; }
+>>>>>>> 69f5eddd531708e2401d39e31741a17cdab79439
         public string VuNombre { get; set; }
         public string VuApaterno { get; set; }
         public string VuAmaterno { get; set; }
         public DateTime? DuFechaNacimiento { get; set; }
+<<<<<<< HEAD
 
+=======
+        public string VuContraseña { get; set; }
+>>>>>>> 69f5eddd531708e2401d39e31741a17cdab79439
         public string VuSexo { get; set; }
         public string VuNacademia { get; set; }
         public int? FkIuCodCategoria { get; set; }

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TP_SGIAMT", "TP_SGIAMT\TP_SGIAMT.csproj", "{3AFE1018-9A42-4468-84B7-FE0637606ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AFE1018-9A42-4468-84B7-FE0637606ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFE1018-9A42-4468-84B7-FE0637606ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFE1018-9A42-4468-84B7-FE0637606ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFE1018-9A42-4468-84B7-FE0637606ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D245FEE4-DF9D-497C-BD14-A233FCC94320}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,64 @@
+﻿@model TP_SGIAMT.Models.login
+@{
+    ViewData["Title"] = "Iniciar Sesion";
+}
+<head>
+    <link rel="stylesheet" href="~/css/StyleSheetLogIn.css">
+    <style>
+        body {
+            background-color: #000000
+        }
+    </style>
+</head>
+<div class="login-box">
+    <div id="formContent">
+        <div class="fadeIn first">
+            <img src="~/images/logo.png" id="icon" alt="LogoTUSUY" />
+        </div>
+        <div class="col s12 m7">
+            <div class="card">
+                <div class="card-contet">
+                    <section>
+                        <form asp-controller="Acces" asp-action="LogIn" method="post">
+                            <div asp-validation-summary="All" class="text-danger"></div>
+                            <div class="input-field col s12">
+                                <label asp-for="Dni">DNI</label>
+                                <input asp-for="Dni" name="DNI" class="form-control" />
+                                <span asp-validation-for="Dni" class="text-danger"></span>
+                            </div>
+                            <div class="input-field col s12">
+                                <label asp-for="Contra">Contraseña</label>
+                                <input asp-for="Contra"  name="Contra" class="form-control"  />
+                                <span asp-validation-for="Contra" class="text-danger"></span>
+                            </div>
+                            <center>
+                                <div class=form-group>
+                                    <div class="checkbox">
+                                        <label asp-for="Rememberme">
+                                            <input asp-for="Rememberme" name="Rememberme" />
+                                            @Html.DisplayNameFor(m => m.Rememberme)
+                                        </label>
+                                    </div>
+                                </div>
+                                <button type="submit" class="waves-effect waves-light btn" onclick="pass();">Ingresar</button>
+                            </center>
+                        </form>
+                    </section>
+                </div>
+                <label id="loginMessage" class="error">@Html.DisplayFor(m => m.ErrorMessage)</label>
+            </div>
+        </div>
+    </div>
+    @ViewData["biw"]
+</div>
+@*<script type="text/javascript">
+    function pass() {
+    var contra = document.getElementById('pass').value;
+    alert(contra)
+    }
+
+</script>*@
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

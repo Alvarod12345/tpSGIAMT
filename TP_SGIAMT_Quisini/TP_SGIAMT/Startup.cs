@@ -60,7 +60,11 @@ namespace TP_SGIAMT
             {
                 routes.MapRoute(
                     name: "default",
+<<<<<<< HEAD
                     template: "{controller=Acces}/{action=Login}/{id?}");
+=======
+                    template: "{controller=Acces}/{action=LogIn}/{id?}");
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
             });
         }
     }

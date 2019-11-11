@@ -122,7 +122,15 @@ input[type=button], input[type=submit], input[type=reset] {
     }
 
 
+<<<<<<< HEAD
 .login-box input[type=text], .login-box input[type=password] {
+=======
+<<<<<<< HEAD
+.login-box input[type=text], .login-box input[type=password] {
+=======
+input[type=text] {
+>>>>>>> 69f5eddd531708e2401d39e31741a17cdab79439
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
     background-color: #f6f6f6;
     border: none;
     color: #0d0d0d;
@@ -143,6 +151,10 @@ input[type=button], input[type=submit], input[type=reset] {
     border-radius: 5px 5px 5px 5px;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
 /*.login-box input[type="text"], .login-box input[type="password"] {
     border: none;
     border-bottom: 1px solid #fff;
@@ -152,6 +164,12 @@ input[type=button], input[type=submit], input[type=reset] {
     color: #fff;
     font-size: 16px;
 }*/
+<<<<<<< HEAD
+=======
+=======
+
+>>>>>>> 69f5eddd531708e2401d39e31741a17cdab79439
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
 
     input[type=text]:focus {
         background-color: #FFFFFF;
@@ -162,7 +180,18 @@ input[type=button], input[type=submit], input[type=reset] {
         color: #626262;
     }
 
+<<<<<<< HEAD
    
+=======
+<<<<<<< HEAD
+   
+=======
+    input[type=password]:placeholder {
+        color: #626262;
+    }
+
+>>>>>>> 69f5eddd531708e2401d39e31741a17cdab79439
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
 
 /* ANIMATIONS */
 

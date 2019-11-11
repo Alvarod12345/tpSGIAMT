@@ -108,6 +108,10 @@ D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.Views.pd
 D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.dll
 D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.pdb
 D:\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.csproj.CopyComplete
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
 D:\2k19-2\tp\3ra iter\pogra\mio\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.csprojAssemblyReference.cache
 D:\2k19-2\tp\3ra iter\pogra\mio\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorAssemblyInfo.cache
 D:\2k19-2\tp\3ra iter\pogra\mio\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.RazorAssemblyInfo.cs
@@ -180,6 +184,7 @@ D:\2k19-2\tp\3ra iter\pogra\mio-test-asp.netCore\TP_SGIAMT_Quisini\TP_SGIAMT\obj
 D:\2k19-2\tp\3ra iter\pogra\mio-test-asp.netCore\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.dll
 D:\2k19-2\tp\3ra iter\pogra\mio-test-asp.netCore\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.pdb
 D:\2k19-2\tp\3ra iter\pogra\mio-test-asp.netCore\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\TP_SGIAMT.csproj.CopyComplete
+<<<<<<< HEAD
 D:\2k19-2\tp\3ra iter\pogra\LogInv2\tpSGIAMT\v2\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\appsettings.Development.json
 D:\2k19-2\tp\3ra iter\pogra\LogInv2\tpSGIAMT\v2\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\appsettings.json
 D:\2k19-2\tp\3ra iter\pogra\LogInv2\tpSGIAMT\v2\TP_SGIAMT_Quisini\TP_SGIAMT\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
@@ -298,3 +303,7 @@ C:\Users\alumno.LABORATORIOS\Documents\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\De
 C:\Users\alumno.LABORATORIOS\Documents\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Roles\_LayoutJurado.g.cshtml.cs
 C:\Users\alumno.LABORATORIOS\Documents\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Roles\_LayoutParticipante.g.cshtml.cs
 C:\Users\alumno.LABORATORIOS\Documents\delete\TP_SGIAMT_Quisini\TP_SGIAMT\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Roles\_LayoutPresentador.g.cshtml.cs
+=======
+=======
+>>>>>>> 69f5eddd531708e2401d39e31741a17cdab79439
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81

@@ -1,7 +1,72 @@
+<<<<<<< HEAD
 ﻿@model TP_SGIAMT.Models.login
 @{
     ViewData["Title"] = "Iniciar Sesion";
 }
+=======
+<<<<<<< HEAD
+﻿@{
+    ViewData["Title"] = "Log In";
+}
+
+@model TP_SGIAMT.Models.TUsuario
+
+    <link href="~/css/StyleSheetLogIn.css" rel="stylesheet" />
+
+
+<center>
+    <div class="login-box">
+        <div class="ro">
+            <div class="col s12 m7">
+                <div class="card">
+                    <div class="card-contet">
+                        <center>
+                            <h4>Iniciar Sesion</h4>
+                        </center>
+                        <section>
+                            <form asp-controller="Acces" asp-action="LogIn" method="post">
+                                <div asp-validation-summary="All" class="text-danger"></div>
+                                <div class="input-field col s12">
+                                    <label asp-for="Input.PkIuDni"></label>
+                                    <input asp-for="Input.PkIuDni" class="form-control" />
+                                    <span asp-validation-for="Input.PkIuDni" class="text-danger"></span>
+                                </div>
+                                <div class="input-field col s12">
+                                    <label asp-for="Input.VuContraseña"></label>
+                                    <input asp-for="Input.VuContraseña" class="form-control" />
+                                    <span asp-validation-for="Input.VuContraseña" class="text-danger"></span>
+                                </div>
+                                <center>
+                                    <button type="submit" id="btnlog" class="waves-effect waves-light btn">Ingresar</button>
+                                    @*<div class="box-footer">
+                                        <input type="submit" value="LOg" class="btn btn-primary" onclick="alerta()" />
+                                    </div>*@
+                                </center>
+                            </form>
+                        </section>
+                    </div>
+                            <label id="loginMessage" class="error">@Html.DisplayFor(m => m.ErrorMessage)</label>  
+                    </div>
+                </div>
+            </div>
+        </div>
+</center>
+
+@section Scripts { 
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}
+=======
+﻿@model TP_SGIAMT.Models.TUsuario
+
+@{
+    ViewData["Title"] = "Log In";
+}
+
+@*<h2>@ViewData["Title"]</h2>*@
+
+<!DOCTYPE html>
+<!------ Include the above in your HEAD tag ---------->
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
 <head>
     <link rel="stylesheet" href="~/css/StyleSheetLogIn.css">
     <style>
@@ -9,6 +74,7 @@
             background-color: #000000
         }
     </style>
+<<<<<<< HEAD
 </head>
 <div class="login-box">
     <div id="formContent">
@@ -62,3 +128,33 @@
 @section Scripts {
     @await Html.PartialAsync("_ValidationScriptsPartial")
 }
+=======
+    <body>
+        <div class="Background">
+            <center>
+                <div id="formContent">
+                    <!-- Tabs Titles -->
+                    <!-- Icon -->
+                    <div class="fadeIn first">
+                        <img src="~/images/logo.png" id="icon" alt="LogoTUSUY" />
+                    </div>
+                    <!-- Login Form -->
+                    <form>
+                        <input asp-for="PkIuDni" type="text" id="Iniciar Sesion" class="fadeIn second" name="login" placeholder="Iniciar Sesion">
+
+                        <input asp-for="VuContraseña" type="password" id="Contraseña" class="fadeIn second" name="login" placeholder="Contraseña">
+                        
+                        <input type="submit" class="fadeIn fourth" value="Ingresar">
+                    </form>
+
+                    <!-- Remind Passowrd -->
+                    <div id="formFooter">
+                        <a class="underlineHover" href="#">Forgot Password?</a>
+                    </div>
+                </div>
+            </center>
+        </div>
+    </body>
+</head>
+>>>>>>> 69f5eddd531708e2401d39e31741a17cdab79439
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81

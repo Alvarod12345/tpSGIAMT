@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
 ﻿using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -31,6 +35,10 @@ namespace TP_SGIAMT.Models
         //    _logger = logger;
         //}
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
         [TempData]
         public String ErrorMessage { get; set; }
         //public TUsuario()
@@ -38,6 +46,7 @@ namespace TP_SGIAMT.Models
         //    TUsuarioModalidad = new HashSet<TUsuarioModalidad>();
         //} 
 
+<<<<<<< HEAD
         //--------------DNI-------------------
         [Required(ErrorMessage = "<font color='black'>El campo DNI es obligatorio!</font>")]
         public int Dni { get; set; }
@@ -49,6 +58,9 @@ namespace TP_SGIAMT.Models
         //---------------------------------
         [Display(Name = "Remember me")]
         public bool Rememberme { get; set; }
+=======
+
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
         //--------------DNI-------------------
         [Required(ErrorMessage = "<font color='red'>El campo DNI es obligatorio!</font>")]
         //[StringLength(100, ErrorMessage = "<font color='red'>El numero de caracteres de {0} debe ser al " +
@@ -62,11 +74,37 @@ namespace TP_SGIAMT.Models
         public string VuContraseña { get; set; }
         //---------------------------------
 
+<<<<<<< HEAD
+=======
+=======
+﻿using System;
+using System.Collections.Generic;
+
+namespace TP_SGIAMT.Models
+{
+    public partial class TUsuario
+    {
+        public TUsuario()
+        {
+            TUsuarioModalidad = new HashSet<TUsuarioModalidad>();
+        }
+
+        public int PkIuDni { get; set; }
+>>>>>>> 69f5eddd531708e2401d39e31741a17cdab79439
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
         public string VuNombre { get; set; }
         public string VuApaterno { get; set; }
         public string VuAmaterno { get; set; }
         public DateTime? DuFechaNacimiento { get; set; }
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+
+=======
+        public string VuContraseña { get; set; }
+>>>>>>> 69f5eddd531708e2401d39e31741a17cdab79439
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
         public string VuSexo { get; set; }
         public string VuNacademia { get; set; }
         public int? FkIuCodCategoria { get; set; }

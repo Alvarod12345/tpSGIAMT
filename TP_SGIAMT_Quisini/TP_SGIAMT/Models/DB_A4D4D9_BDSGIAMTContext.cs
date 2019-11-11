@@ -30,7 +30,11 @@ namespace TP_SGIAMT.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
+<<<<<<< HEAD
                 optionsBuilder.UseSqlServer("Server=sql5047.site4now.net;Database=DB_A4F05E_SGIAMTP;User Id=DB_A4F05E_SGIAMTP_admin;Password=123456789gg");
+=======
+                optionsBuilder.UseSqlServer("Server=ssql5047.site4now.net;Database=DB_A4F05E_SGIAMTP;User Id=DB_A4F05E_SGIAMTP_admin;Password=123456789gg");
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
             }
         }
 
@@ -164,6 +168,10 @@ namespace TP_SGIAMT.Models
                     .HasColumnName("DU_FechaNacimiento")
                     .HasColumnType("datetime");
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
                 entity.Property(e => e.FkIauIdArchivo)
                 .HasColumnName("FK_IAU_IdArchivo");
 
@@ -172,6 +180,16 @@ namespace TP_SGIAMT.Models
 
                 entity.Property(e => e.FkIuCodCategoria)
                 .HasColumnName("FK_IU_CodCategoria");
+<<<<<<< HEAD
+=======
+=======
+                entity.Property(e => e.FkIauIdArchivo).HasColumnName("FK_IAU_IdArchivo");
+
+                entity.Property(e => e.FkItuTipoUsuario).HasColumnName("FK_ITU_TipoUsuario");
+
+                entity.Property(e => e.FkIuCodCategoria).HasColumnName("FK_IU_CodCategoria");
+>>>>>>> 69f5eddd531708e2401d39e31741a17cdab79439
+>>>>>>> 2b48908e7ace366e8c5aaeeade1d08293ea13c81
 
                 entity.Property(e => e.VuAmaterno)
                     .HasColumnName("VU_AMaterno")
